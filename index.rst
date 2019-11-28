@@ -10,6 +10,7 @@ Welcome to Creating CityGML Datasets's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   lod3-modeling/LoD3_based_on_point_cloud
 
 
 Indices and tables
