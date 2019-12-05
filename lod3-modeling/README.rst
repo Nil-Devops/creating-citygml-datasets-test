@@ -1,5 +1,5 @@
-Tutorial LoD3 modellingAAAA
-===========================
+Tutorial LoD3 modelling
+=======================
 
 Requirements
 ------------
@@ -23,7 +23,7 @@ After installation and activation of CityEditor plugin and SketchUp the import o
 Select *CityEditor Importer* to run the importing window.
 
 .. image:: resources/1.jpg
-    :width: 100%
+    :width: 50%
 
 Click on the building icon at the top-right to add CityGML objects (formats like .xml, .gml, .shp, .dxf, and other avalaible). It is possible to add single files (under *File...*) or several (*Directory...*).
 
