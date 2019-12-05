@@ -11,7 +11,7 @@ Welcome to Creating CityGML Datasets's documentation!
    :caption: Contents:
 
    lod3-modeling/LoD3_based_on_point_cloud
-   lod3-modeling/Tutorial
+   lod3-modeling/README
 
 Indices and tables
 ==================
